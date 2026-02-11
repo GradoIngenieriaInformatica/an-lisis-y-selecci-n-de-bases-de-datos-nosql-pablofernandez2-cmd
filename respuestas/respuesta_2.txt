@@ -1,1 +1,5 @@
 TIPO | Justificación corta
+
+Tipo de NoSQL: Base de datos Documental
+
+Justificación: Ofrece un esquema flexible que permite guardar documentos (como JSON) con estructuras diferentes dentro de una misma colección. Esto es ideal para manejar campos opcionales y adaptarse a cambios frecuentes en el modelo de datos sin migraciones complejas.
