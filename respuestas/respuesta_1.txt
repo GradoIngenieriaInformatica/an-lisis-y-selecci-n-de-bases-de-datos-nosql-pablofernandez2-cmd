@@ -1,1 +1,5 @@
 TIPO | Justificación corta
+
+Tipo de NoSQL: Base de datos Orientada a Grafos.
+
+Justificación: Es la arquitectura óptima para manejar datos altamente interconectados. Permite realizar recorridos y analizar relaciones indirectas de forma nativa y eficiente, evitando el coste computacional excesivo de los joins relacionales.
