@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+BASE DE DATOS DE SERIES TEMPORALES | Está optimizada para soportar una tasa masiva de escrituras y para recuperar información eficientemente basándose en índices de tiempo y rangos temporales.
+
